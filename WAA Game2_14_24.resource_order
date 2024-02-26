@@ -27,6 +27,7 @@
     {"name":"spr_bouncyObstacle","order":7,"path":"sprites/spr_bouncyObstacle/spr_bouncyObstacle.yy",},
     {"name":"obj_enemy","order":1,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"obj_par_damagingObstacle","order":6,"path":"objects/obj_par_damagingObstacle/obj_par_damagingObstacle.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"obj_par_bouncyObstacle","order":4,"path":"objects/obj_par_bouncyObstacle/obj_par_bouncyObstacle.yy",},
     {"name":"spr_floatStone","order":5,"path":"sprites/spr_floatStone/spr_floatStone.yy",},
     {"name":"obj_floatStone","order":2,"path":"objects/obj_floatStone/obj_floatStone.yy",},
