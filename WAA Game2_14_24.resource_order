@@ -31,6 +31,7 @@
     {"name":"obj_par_bouncyObstacle","order":4,"path":"objects/obj_par_bouncyObstacle/obj_par_bouncyObstacle.yy",},
     {"name":"spr_floatStone","order":5,"path":"sprites/spr_floatStone/spr_floatStone.yy",},
     {"name":"obj_floatStone","order":2,"path":"objects/obj_floatStone/obj_floatStone.yy",},
+    {"name":"rm_testRoom","order":2,"path":"rooms/rm_testRoom/rm_testRoom.yy",},
     {"name":"spr_wind","order":8,"path":"sprites/spr_wind/spr_wind.yy",},
   ],
 }

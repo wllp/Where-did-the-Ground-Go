@@ -51,12 +51,14 @@
     {"id":{"name":"spr_floatStone","path":"sprites/spr_floatStone/spr_floatStone.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"obj_floatStone","path":"objects/obj_floatStone/obj_floatStone.yy",},},
+    {"id":{"name":"rm_testRoom","path":"rooms/rm_testRoom/rm_testRoom.yy",},},
     {"id":{"name":"spr_wind","path":"sprites/spr_wind/spr_wind.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_testRoom","path":"rooms/rm_testRoom/rm_testRoom.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

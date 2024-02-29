@@ -26,11 +26,3 @@ if (hp == 0) {
 	speed = 0;	
 }
 
-// Rotation
-if ((speed > 0) && target_y < y) {
-	image_angle = -45;
-} else if ((speed > 0) && target_y > y) {
-	image_angle = 45;	
-} else if (speed == 0 ){
-	image_angle = 0;	
-}
