@@ -1,9 +1,4 @@
 
-// Used in Step event
-target_x = 0;
-target_y = 0;
-
-
 // Healthbar Items
 hp = 50;
 hp_max = hp;

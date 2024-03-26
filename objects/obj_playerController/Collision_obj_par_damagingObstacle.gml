@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6AA87CEE
-/// @DnDArgument : "var" "collided"
+/// @DnDArgument : "var" "isCollided"
 /// @DnDArgument : "value" "false"
-if(collided == false)
+if(isCollided == false)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -19,8 +19,8 @@ if(collided == false)
 	/// @DnDHash : 2F5850EE
 	/// @DnDParent : 6AA87CEE
 	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "var" "collided"
-	collided = true;
+	/// @DnDArgument : "var" "isCollided"
+	isCollided = true;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1

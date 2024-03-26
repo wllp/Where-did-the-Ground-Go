@@ -22,3 +22,14 @@ with(obj_playerController) {
 alarm_set(0, 60);
 
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4763D20C
+/// @DnDApplyTo : {obj_playerController}
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "obj_playerController.isGliding"
+with(obj_playerController) {
+obj_playerController.isGliding = true;
+
+}

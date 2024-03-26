@@ -24,6 +24,8 @@
     {"name":"Wind","order":10,"path":"folders/Sprites/Wind.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Player","order":13,"path":"folders/Sprites/Player.yy",},
+    {"name":"Goal","order":14,"path":"folders/Sprites/Goal.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_Fwind225Degrees","order":7,"path":"objects/obj_Fwind225Degrees/obj_Fwind225Degrees.yy",},
@@ -48,7 +50,6 @@
     {"name":"obj_goal","order":1,"path":"objects/obj_goal/obj_goal.yy",},
     {"name":"obj_par_damagingObstacle","order":1,"path":"objects/obj_par_damagingObstacle/obj_par_damagingObstacle.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
-    {"name":"obj_boundary","order":2,"path":"objects/obj_boundary/obj_boundary.yy",},
     {"name":"obj_Awind0Degrees","order":4,"path":"objects/obj_Awind0Degrees/obj_Awind0Degrees.yy",},
     {"name":"rm_testRoom","order":2,"path":"rooms/rm_testRoom/rm_testRoom.yy",},
     {"name":"spr_Ewind180Degrees","order":4,"path":"sprites/spr_Ewind180Degrees/spr_Ewind180Degrees.yy",},

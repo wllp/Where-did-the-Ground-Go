@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 10FB21CD
+/// @DnDApplyTo : {obj_playerController}
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "obj_playerController.isGliding"
+with(obj_playerController) {
+obj_playerController.isGliding = true;
+
+}
+
 /// @DnDAction : YoYo Games.Movement.Set_Friction
 /// @DnDVersion : 1
 /// @DnDHash : 21F68AB2
