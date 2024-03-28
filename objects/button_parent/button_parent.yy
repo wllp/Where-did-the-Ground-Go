@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Button_base",
+  "%Name":"button_parent",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Button_base",
+  "name":"button_parent",
   "overriddenProperties":[],
   "parent":{
     "name":"Buttons",
@@ -31,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite18",
-    "path":"sprites/Sprite18/Sprite18.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

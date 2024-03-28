@@ -5,9 +5,9 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Buttons","order":15,"path":"folders/Objects/Buttons.yy",},
     {"name":"Controllers","order":9,"path":"folders/Objects/Controllers.yy",},
     {"name":"Damaging","order":14,"path":"folders/Objects/Damaging.yy",},
-    {"name":"Buttons","order":15,"path":"folders/Objects/Buttons.yy",},
     {"name":"Obstacles","order":8,"path":"folders/Objects/Obstacles.yy",},
     {"name":"Pickups","order":11,"path":"folders/Objects/Pickups.yy",},
     {"name":"Player","order":10,"path":"folders/Objects/Player.yy",},
@@ -33,6 +33,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_Awind0Degrees","order":4,"path":"objects/obj_Awind0Degrees/obj_Awind0Degrees.yy",},
     {"name":"obj_boundary","order":2,"path":"objects/obj_boundary/obj_boundary.yy",},
+    {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_Bwind45Degrees","order":3,"path":"objects/obj_Bwind45Degrees/obj_Bwind45Degrees.yy",},
     {"name":"obj_Cwind90Degrees","order":1,"path":"objects/obj_Cwind90Degrees/obj_Cwind90Degrees.yy",},
     {"name":"obj_Dwind135Degrees","order":5,"path":"objects/obj_Dwind135Degrees/obj_Dwind135Degrees.yy",},
@@ -46,6 +47,7 @@
     {"name":"rm_testRoom","order":2,"path":"rooms/rm_testRoom/rm_testRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_boundary","order":2,"path":"sprites/spr_boundary/spr_boundary.yy",},
+    {"name":"spr_button","order":13,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"spr_Bwind45Degrees","order":1,"path":"sprites/spr_Bwind45Degrees/spr_Bwind45Degrees.yy",},
     {"name":"spr_Cwind90Degrees","order":2,"path":"sprites/spr_Cwind90Degrees/spr_Cwind90Degrees.yy",},
     {"name":"spr_damagingObstacle","order":1,"path":"sprites/spr_damagingObstacle/spr_damagingObstacle.yy",},
@@ -58,5 +60,6 @@
     {"name":"spr_Hwind315Degrees","order":7,"path":"sprites/spr_Hwind315Degrees/spr_Hwind315Degrees.yy",},
     {"name":"spr_resource","order":1,"path":"sprites/spr_resource/spr_resource.yy",},
     {"name":"Sprite18","order":16,"path":"sprites/Sprite18/Sprite18.yy",},
+    {"name":"Sprite20","order":17,"path":"sprites/Sprite20/Sprite20.yy",},
   ],
 }
