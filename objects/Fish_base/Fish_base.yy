@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Awind0Degrees",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_playerController","path":"objects/obj_playerController/obj_playerController.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Fish_base",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Awind0Degrees",
+  "name":"Fish_base",
   "overriddenProperties":[],
   "parent":{
-    "name":"Wind Objects",
-    "path":"folders/Objects/Wind Objects.yy",
+    "name":"Resorce",
+    "path":"folders/Objects/Resorce.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Awind0Degrees",
-    "path":"sprites/spr_Awind0Degrees/spr_Awind0Degrees.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
