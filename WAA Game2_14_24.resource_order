@@ -33,6 +33,8 @@
   "ResourceOrderSettings":[
     {"name":"obj_Awind0Degrees","order":4,"path":"objects/obj_Awind0Degrees/obj_Awind0Degrees.yy",},
     {"name":"obj_boundary","order":2,"path":"objects/obj_boundary/obj_boundary.yy",},
+    {"name":"obj_button_help","order":2,"path":"objects/obj_button_help/obj_button_help.yy",},
+    {"name":"obj_button_back","order":3,"path":"objects/obj_button_back/obj_button_back.yy",},
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_Bwind45Degrees","order":3,"path":"objects/obj_Bwind45Degrees/obj_Bwind45Degrees.yy",},
     {"name":"obj_Cwind90Degrees","order":1,"path":"objects/obj_Cwind90Degrees/obj_Cwind90Degrees.yy",},
@@ -44,6 +46,7 @@
     {"name":"obj_Hwind315Degrees","order":8,"path":"objects/obj_Hwind315Degrees/obj_Hwind315Degrees.yy",},
     {"name":"obj_par_damagingObstacle","order":1,"path":"objects/obj_par_damagingObstacle/obj_par_damagingObstacle.yy",},
     {"name":"obj_resource","order":1,"path":"objects/obj_resource/obj_resource.yy",},
+    {"name":"Help","order":1,"path":"rooms/Help/Help.yy",},
     {"name":"rm_testRoom","order":2,"path":"rooms/rm_testRoom/rm_testRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_boundary","order":2,"path":"sprites/spr_boundary/spr_boundary.yy",},
