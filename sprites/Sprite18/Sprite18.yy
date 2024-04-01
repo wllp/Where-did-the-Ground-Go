@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"WAA Game2_14_24",
-    "path":"WAA Game2_14_24.yyp",
+    "name":"Where Did The Ground Go 03.31.24",
+    "path":"Where Did The Ground Go 03.31.24.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -5,6 +5,17 @@
 /// @DnDArgument : "friction" "0.15"
 with(obj_playerController) friction = 0.15;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 657D1FC5
+/// @DnDApplyTo : {obj_playerController}
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "obj_playerController.isGliding"
+with(obj_playerController) {
+obj_playerController.isGliding = true;
+
+}
+
 /// @DnDAction : YoYo Games.Movement.Add_Motion
 /// @DnDVersion : 1
 /// @DnDHash : 598E827F

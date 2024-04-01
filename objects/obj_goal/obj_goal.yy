@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_goal",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_playerController","path":"objects/obj_playerController/obj_playerController.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_goal",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_goal",
+    "path":"sprites/spr_goal/spr_goal.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
