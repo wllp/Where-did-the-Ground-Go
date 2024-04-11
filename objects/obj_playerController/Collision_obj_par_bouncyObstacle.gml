@@ -9,9 +9,9 @@ if(isBouncing == false)
 	/// @DnDVersion : 1
 	/// @DnDHash : 41C862B2
 	/// @DnDParent : 54FC7BF5
-	/// @DnDArgument : "expr" "0.5"
+	/// @DnDArgument : "expr" "0.25"
 	/// @DnDArgument : "var" "friction"
-	friction = 0.5;
+	friction = 0.25;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
@@ -40,8 +40,8 @@ if(isBouncing == false)
 	/// @DnDVersion : 1
 	/// @DnDHash : 26154A99
 	/// @DnDParent : 54FC7BF5
-	/// @DnDArgument : "code" "$(13_10)	var _dir = point_direction(other.x, other.y, x, y);$(13_10)	direction = _dir;$(13_10)"
-	
+	/// @DnDArgument : "code" "	var_spd = 0.7;$(13_10)	var _dir = point_direction(other.x, other.y, x, y);$(13_10)	direction = _dir;$(13_10)"
+		var_spd = 0.7;
 		var _dir = point_direction(other.x, other.y, x, y);
 		direction = _dir;
 }
