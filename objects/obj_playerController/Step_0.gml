@@ -54,22 +54,16 @@ if(isGliding == false)
 /// @DnDVersion : 1
 /// @DnDHash : 20EE2B9C
 /// @DnDArgument : "var" "hp"
-if(hp == 0)
+/// @DnDArgument : "op" "3"
+if(hp <= 0)
 {
-	/// @DnDAction : YoYo Games.Movement.Add_Motion
-	/// @DnDVersion : 1
-	/// @DnDHash : 738219B2
-	/// @DnDParent : 20EE2B9C
-	/// @DnDArgument : "dir" "0"
-	/// @DnDArgument : "speed" "0"
-	motion_add(0, 0);
-
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 0DB74495
+	/// @DnDHash : 136830E0
 	/// @DnDParent : 20EE2B9C
-	/// @DnDArgument : "var" "var_spd"
-	var_spd = 0;
+	/// @DnDArgument : "expr" "true"
+	/// @DnDArgument : "var" "levelOver"
+	levelOver = true;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -84,8 +78,8 @@ if(speed > max_spd)
 	/// @DnDVersion : 1
 	/// @DnDHash : 35ED897B
 	/// @DnDParent : 0FF6D8B4
-	/// @DnDArgument : "expr" "-0.5"
+	/// @DnDArgument : "expr" "-0.75"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "speed"
-	speed += -0.5;
+	speed += -0.75;
 }
