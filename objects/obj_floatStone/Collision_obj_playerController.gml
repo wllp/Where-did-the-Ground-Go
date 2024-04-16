@@ -12,5 +12,5 @@ hp += +25;
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 26D12262
+/// @DnDHash : 3D1211F7
 instance_destroy();
