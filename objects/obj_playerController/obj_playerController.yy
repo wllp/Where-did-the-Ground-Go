@@ -49,6 +49,8 @@
     {"$GMObjectProperty":"","%Name":"isBouncing","filters":[],"listItems":[],"multiselect":false,"name":"isBouncing","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
     {"$GMObjectProperty":"","%Name":"var_spd","filters":[],"listItems":[],"multiselect":false,"name":"var_spd","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.5","varType":0,},
     {"$GMObjectProperty":"","%Name":"max_spd","filters":[],"listItems":[],"multiselect":false,"name":"max_spd","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":0,},
+    {"$GMObjectProperty":"","%Name":"levelOver","filters":[],"listItems":[],"multiselect":false,"name":"levelOver","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
+    {"$GMObjectProperty":"","%Name":"hp","filters":[],"listItems":[],"multiselect":false,"name":"hp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"50","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
