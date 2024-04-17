@@ -74,6 +74,7 @@
     {"id":{"name":"obj_repaire_zone","path":"objects/obj_repaire_zone/obj_repaire_zone.yy",},},
     {"id":{"name":"obj_resource","path":"objects/obj_resource/obj_resource.yy",},},
     {"id":{"name":"obj_windParent","path":"objects/obj_windParent/obj_windParent.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"Help","path":"rooms/Help/Help.yy",},},
     {"id":{"name":"Open","path":"rooms/Open/Open.yy",},},
     {"id":{"name":"rm_AlexWhite","path":"rooms/rm_AlexWhite/rm_AlexWhite.yy",},},
