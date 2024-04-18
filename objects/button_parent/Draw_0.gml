@@ -6,9 +6,9 @@ draw_self();
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 154F8AE0
-/// @DnDArgument : "font" "Font_Button"
-/// @DnDSaveInfo : "font" "Font_Button"
-draw_set_font(Font_Button);
+/// @DnDArgument : "font" "fnt_button"
+/// @DnDSaveInfo : "font" "fnt_button"
+draw_set_font(fnt_button);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1

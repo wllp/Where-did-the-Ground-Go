@@ -6,6 +6,6 @@ event_inherited();
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 357240E8
-/// @DnDArgument : "room" "Help"
-/// @DnDSaveInfo : "room" "Help"
-room_goto(Help);
+/// @DnDArgument : "room" "rm_help"
+/// @DnDSaveInfo : "room" "rm_help"
+room_goto(rm_help);
