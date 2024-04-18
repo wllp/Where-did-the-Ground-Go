@@ -2,5 +2,6 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"obj_pause","order":1,"path":"objects/obj_pause/obj_pause.yy",},
+    {"name":"spr_repair","order":1,"path":"sprites/spr_repair/spr_repair.yy",},
   ],
 }

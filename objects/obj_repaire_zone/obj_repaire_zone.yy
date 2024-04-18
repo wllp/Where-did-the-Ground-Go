@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_repair",
+    "path":"sprites/spr_repair/spr_repair.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
