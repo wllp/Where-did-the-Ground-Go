@@ -9,8 +9,8 @@
   "name":"obj_repaire_zone",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Repair",
+    "path":"folders/Sprites/Repair.yy",
   },
   "parentObjectId":null,
   "persistent":false,

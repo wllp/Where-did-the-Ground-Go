@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Where Did The Ground Go 03.31.24",
-    "path":"Where Did The Ground Go 03.31.24.yyp",
+    "name":"Main menu",
+    "path":"folders/Sprites/Main menu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
