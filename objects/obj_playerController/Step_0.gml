@@ -96,10 +96,10 @@ if(isBouncing == false)
 		/// @DnDVersion : 1
 		/// @DnDHash : 03867CBD
 		/// @DnDParent : 46D88902
-		/// @DnDArgument : "expr" "-0.15"
+		/// @DnDArgument : "expr" "-0.025"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "hp"
-		hp += -0.15;
+		hp += -0.025;
 	}
 }
 
@@ -122,10 +122,10 @@ if(isGliding == false)
 		/// @DnDVersion : 1
 		/// @DnDHash : 2C3E109B
 		/// @DnDParent : 6F70C2F0
-		/// @DnDArgument : "expr" "-0.15"
+		/// @DnDArgument : "expr" "-0.025"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "hp"
-		hp += -0.15;
+		hp += -0.025;
 	}
 }
 

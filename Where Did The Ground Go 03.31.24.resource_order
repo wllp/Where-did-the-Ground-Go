@@ -1,4 +1,11 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_Awind0_test","order":1,"path":"objects/obj_Awind0_test/obj_Awind0_test.yy",},
+    {"name":"obj_birb","order":1,"path":"objects/obj_birb/obj_birb.yy",},
+    {"name":"spr_birb","order":3,"path":"sprites/spr_birb/spr_birb.yy",},
+    {"name":"spr_bouncyObstacle","order":1,"path":"sprites/spr_bouncyObstacle/spr_bouncyObstacle.yy",},
+    {"name":"spr_damagingObstacle","order":2,"path":"sprites/spr_damagingObstacle/spr_damagingObstacle.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+  ],
 }
