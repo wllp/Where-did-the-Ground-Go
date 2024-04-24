@@ -1,0 +1,1 @@
+if (place_meeting(x, y, obj_boundary)) instance_destroy();

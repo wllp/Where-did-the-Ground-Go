@@ -1,20 +1,4 @@
 {
-  "FolderOrderSettings":[
-    {"name":"Pause Elements","order":2,"path":"folders/Objects/Pause Elements.yy",},
-    {"name":"Background","order":2,"path":"folders/Sprites/Background.yy",},
-    {"name":"Goal","order":3,"path":"folders/Sprites/Goal.yy",},
-    {"name":"Health","order":4,"path":"folders/Sprites/Health.yy",},
-    {"name":"Main menu","order":14,"path":"folders/Sprites/Main menu.yy",},
-    {"name":"Obstacles","order":5,"path":"folders/Sprites/Obstacles.yy",},
-    {"name":"Pickups","order":6,"path":"folders/Sprites/Pickups.yy",},
-    {"name":"Player","order":7,"path":"folders/Sprites/Player.yy",},
-    {"name":"Repair","order":13,"path":"folders/Sprites/Repair.yy",},
-    {"name":"Wind","order":8,"path":"folders/Sprites/Wind.yy",},
-  ],
-  "ResourceOrderSettings":[
-    {"name":"obj_pauseMenu","order":1,"path":"objects/obj_pauseMenu/obj_pauseMenu.yy",},
-    {"name":"spr_repair","order":1,"path":"sprites/spr_repair/spr_repair.yy",},
-    {"name":"Sprite18","order":1,"path":"sprites/Sprite18/Sprite18.yy",},
-    {"name":"Sprite20","order":2,"path":"sprites/Sprite20/Sprite20.yy",},
-  ],
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[],
 }
