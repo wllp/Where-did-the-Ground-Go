@@ -1,15 +1,21 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 40B95446
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if (room == rm_AlexWhitney) {$(13_10)	solid = false;$(13_10)	camera_x = max(x, camera_x);$(13_10)	camera_y = max(y, camera_y);$(13_10)	camera_set_view_pos(view_camera[0], camera_x+100, camera_y-200);$(13_10)	if (x < camera_x-100) {$(13_10)		x = camera_x-100$(13_10)	}$(13_10)}"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if (room == rm_AlexWhitney) {$(13_10)	solid = false;$(13_10)	camera_x = max(x, camera_x);$(13_10)	camera_y = 0;$(13_10)	camera_set_view_pos(view_camera[0], camera_x+100, camera_y-200);$(13_10)	if (x < camera_x-100) {$(13_10)		x = camera_x-100$(13_10)	}$(13_10)	if (y < camera_y-10) {$(13_10)		y = camera_y-10$(13_10)	}$(13_10)	if (y > 660) {$(13_10)		y = 660$(13_10)	}$(13_10)}"
 /// @description Execute Code
 if (room == rm_AlexWhitney) {
 	solid = false;
 	camera_x = max(x, camera_x);
-	camera_y = max(y, camera_y);
+	camera_y = 0;
 	camera_set_view_pos(view_camera[0], camera_x+100, camera_y-200);
 	if (x < camera_x-100) {
 		x = camera_x-100
+	}
+	if (y < camera_y-10) {
+		y = camera_y-10
+	}
+	if (y > 660) {
+		y = 660
 	}
 }
 
@@ -181,8 +187,8 @@ if(speed > max_spd)
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 7DE8A3AA
-/// @DnDArgument : "expr" "global.invincible_timer >= 0 && global.invincible_timer <= 180"
-if(global.invincible_timer >= 0 && global.invincible_timer <= 180)
+/// @DnDArgument : "expr" "global.invincible_timer >= 0 && global.invincible_timer <= 120"
+if(global.invincible_timer >= 0 && global.invincible_timer <= 120)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -214,8 +220,8 @@ else
 	/// @DnDParent : 6189FD89
 	/// @DnDArgument : "var" "global.invincible_timer"
 	/// @DnDArgument : "op" "2"
-	/// @DnDArgument : "value" "180"
-	if(global.invincible_timer > 180)
+	/// @DnDArgument : "value" "120"
+	if(global.invincible_timer > 120)
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
