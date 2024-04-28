@@ -11,3 +11,10 @@ healthbar_y = ystart - 100;
 
 // net init
 global.net_visible = false
+// invincible init
+global.invincible = false;
+global.invincible_timer = -1;
+
+//camera create
+camera_x = 0;
+camera_y = 0;

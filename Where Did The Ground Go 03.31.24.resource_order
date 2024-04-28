@@ -8,5 +8,6 @@
     {"name":"spr_bouncyObstacle","order":1,"path":"sprites/spr_bouncyObstacle/spr_bouncyObstacle.yy",},
     {"name":"spr_damagingObstacle","order":2,"path":"sprites/spr_damagingObstacle/spr_damagingObstacle.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_player_invincible","order":2,"path":"sprites/spr_player_invincible/spr_player_invincible.yy",},
   ],
 }

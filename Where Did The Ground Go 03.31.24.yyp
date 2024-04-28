@@ -120,6 +120,7 @@
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},},
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
+    {"id":{"name":"spr_player_invincible","path":"sprites/spr_player_invincible/spr_player_invincible.yy",},},
     {"id":{"name":"top_clouds_BG","path":"sprites/top_clouds_BG/top_clouds_BG.yy",},},
   ],
   "resourceType":"GMProject",
