@@ -1,0 +1,7 @@
+Hey Guys,
+
+I figured out how to get gifs working in the game. I need to mess around with the
+asepect ration a bit still and also make the roated copipes for th other directions.
+I also would like it make the loop cleaner but its something and it MOVES!
+
+I also have some test sounds we might use.
