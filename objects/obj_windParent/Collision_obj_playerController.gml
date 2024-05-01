@@ -32,3 +32,11 @@ obj_playerController.isGliding = true;
 /// @DnDDisabled : 1
 /// @DnDApplyTo : {obj_playerController}
 /// @DnDArgument : "steps" "60"
+
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 64F73BB8
+/// @DnDArgument : "soundid" "sfx_wind"
+/// @DnDSaveInfo : "soundid" "sfx_wind"
+audio_play_sound(sfx_wind, 0, 0, 1.0, undefined, 1.0);

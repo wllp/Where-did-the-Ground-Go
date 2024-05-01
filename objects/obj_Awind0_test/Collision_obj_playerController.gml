@@ -5,3 +5,10 @@
 /// @description Execute Code
 obj_playerController.hspeed += 20;
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 3E337EBC
+/// @DnDArgument : "soundid" "sfx_wind"
+/// @DnDSaveInfo : "soundid" "sfx_wind"
+audio_play_sound(sfx_wind, 0, 0, 1.0, undefined, 1.0);

@@ -93,6 +93,7 @@
     {"id":{"name":"rm_WillPlatt","path":"rooms/rm_WillPlatt/rm_WillPlatt.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"sfx_wind","path":"sounds/sfx_wind/sfx_wind.yy",},},
     {"id":{"name":"blue_sky_BG","path":"sprites/blue_sky_BG/blue_sky_BG.yy",},},
     {"id":{"name":"bottom_clouds_BG","path":"sprites/bottom_clouds_BG/bottom_clouds_BG.yy",},},
     {"id":{"name":"mid_clouds_BG","path":"sprites/mid_clouds_BG/mid_clouds_BG.yy",},},
