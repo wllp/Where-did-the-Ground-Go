@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Utilites","order":6,"path":"folders/Rooms/Utilites.yy",},
     {"name":"Goal","order":1,"path":"folders/Sprites/Goal.yy",},
     {"name":"Health","order":2,"path":"folders/Sprites/Health.yy",},
     {"name":"Main menu","order":3,"path":"folders/Sprites/Main menu.yy",},
@@ -21,7 +22,13 @@
     {"name":"obj_Gwind270","order":4,"path":"objects/obj_Gwind270/obj_Gwind270.yy",},
     {"name":"obj_Hwind315","order":7,"path":"objects/obj_Hwind315/obj_Hwind315.yy",},
     {"name":"obj_windParent","order":8,"path":"objects/obj_windParent/obj_windParent.yy",},
-    {"name":"rm_Will2","order":1,"path":"rooms/rm_Will2/rm_Will2.yy",},
+    {"name":"rm_AlexWhite","order":1,"path":"rooms/rm_AlexWhite/rm_AlexWhite.yy",},
+    {"name":"rm_AlexWhitney","order":5,"path":"rooms/rm_AlexWhitney/rm_AlexWhitney.yy",},
+    {"name":"rm_open","order":1,"path":"rooms/rm_open/rm_open.yy",},
+    {"name":"rm_testRoom","order":3,"path":"rooms/rm_testRoom/rm_testRoom.yy",},
+    {"name":"rm_WillPlatt","order":4,"path":"rooms/rm_WillPlatt/rm_WillPlatt.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
+    {"name":"rm_end","order":2,"path":"rooms/rm_end/rm_end.yy",},
     {"name":"spr_Awind0Degrees","order":1,"path":"sprites/spr_Awind0Degrees/spr_Awind0Degrees.yy",},
     {"name":"spr_birb","order":3,"path":"sprites/spr_birb/spr_birb.yy",},
     {"name":"spr_bouncyObstacle","order":1,"path":"sprites/spr_bouncyObstacle/spr_bouncyObstacle.yy",},
