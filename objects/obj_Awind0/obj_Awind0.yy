@@ -1,10 +1,14 @@
 {
   "$GMObject":"",
   "%Name":"obj_Awind0",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_playerController","path":"objects/obj_playerController/obj_playerController.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_Awind0",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_windParent","path":"objects/obj_windParent/obj_windParent.yy",},"propertyId":{"name":"var_dir","path":"objects/obj_windParent/obj_windParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
+  ],
   "parent":{
     "name":"Wind Objects",
     "path":"folders/Objects/Wind Objects.yy",
