@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_goal",
-    "path":"sprites/spr_goal/spr_goal.yy",
+    "name":"flag",
+    "path":"sprites/flag/flag.yy",
   },
   "spriteMaskId":null,
   "visible":true,
