@@ -18,3 +18,7 @@ global.invincible_timer = -1;
 //camera create
 camera_x = 0;
 camera_y = 0;
+
+restart = false;
+restart_reset = -1;
+reset_message = "You died. Please press R to restart";

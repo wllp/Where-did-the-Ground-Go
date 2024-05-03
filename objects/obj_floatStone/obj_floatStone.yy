@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_floatStone",
-    "path":"sprites/spr_floatStone/spr_floatStone.yy",
+    "name":"floatstone",
+    "path":"sprites/floatstone/floatstone.yy",
   },
   "spriteMaskId":null,
   "visible":true,
