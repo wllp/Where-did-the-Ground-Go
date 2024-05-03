@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_flag",
-    "path":"sprites/spr_flag/spr_flag.yy",
+    "name":"flag",
+    "path":"sprites/flag/flag.yy",
   },
   "spriteMaskId":null,
   "visible":true,

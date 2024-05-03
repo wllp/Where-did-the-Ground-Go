@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_net",
+  "%Name":"Sprite27",
   "bboxMode":0,
   "bbox_bottom":63,
   "bbox_left":10,
@@ -21,19 +21,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"7bd178ef-d6b6-481e-8441-c1b0167b46af","blendMode":0,"displayName":"default","isLocked":false,"name":"7bd178ef-d6b6-481e-8441-c1b0167b46af","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_net",
+  "name":"Sprite27",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Player",
-    "path":"folders/Sprites/Player.yy",
+    "name":"Where Did The Ground Go 03.31.24",
+    "path":"Where Did The Ground Go 03.31.24.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_net",
+    "%Name":"Sprite27",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_net",
+    "name":"Sprite27",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"369951d6-0b98-4d37-ad4b-81c367a6fa36","path":"sprites/spr_net/spr_net.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"369951d6-0b98-4d37-ad4b-81c367a6fa36","path":"sprites/Sprite27/Sprite27.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b043012b-64f3-4ff0-88e1-9680d654e75c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
