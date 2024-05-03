@@ -7,7 +7,7 @@
   "managed":true,
   "name":"obj_button_goto_3",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Back",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Level 3",},
   ],
   "parent":{
     "name":"Buttons",
