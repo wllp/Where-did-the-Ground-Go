@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_goal",
+    "path":"sprites/spr_goal/spr_goal.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
