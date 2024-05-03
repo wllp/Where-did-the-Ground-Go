@@ -22,3 +22,4 @@ camera_y = 0;
 restart = false;
 restart_reset = -1;
 reset_message = "You died. Please press R to restart";
+score_val = 0;

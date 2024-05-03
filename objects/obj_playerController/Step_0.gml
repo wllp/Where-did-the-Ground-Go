@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 40B95446
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if (room == rm_AlexWhitney) {$(13_10)	solid = false;$(13_10)	camera_x = max(x, camera_x);$(13_10)	camera_y = 0;$(13_10)	camera_set_view_pos(view_camera[0], camera_x+100, camera_y-200);$(13_10)	if (x < camera_x-100) {$(13_10)		x = camera_x-100$(13_10)	}$(13_10)	if (y < camera_y-10) {$(13_10)		y = camera_y-10$(13_10)	}$(13_10)	if (y > 660) {$(13_10)		y = 660$(13_10)	}$(13_10)}$(13_10)/// @description Execute Code$(13_10)if (restart) {$(13_10)	restart_reset += 1;$(13_10)	show_debug_message(restart_reset);$(13_10)}"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if (room == rm_AlexWhitney) {$(13_10)	solid = false;$(13_10)	camera_x = max(x, camera_x);$(13_10)	camera_y = 0;$(13_10)	camera_set_view_pos(view_camera[0], camera_x+100, camera_y-200);$(13_10)	if (x < camera_x-100) {$(13_10)		x = camera_x-100$(13_10)	}$(13_10)	if (y < camera_y-10) {$(13_10)		y = camera_y-10$(13_10)	}$(13_10)	if (y > 660) {$(13_10)		y = 660$(13_10)	}$(13_10)	if (camera_x >= 4090) {$(13_10)		camera_x = 4090$(13_10)	}$(13_10)}$(13_10)/// @description Execute Code$(13_10)if (restart) {$(13_10)	restart_reset += 1;$(13_10)	show_debug_message(restart_reset);$(13_10)}"
 /// @description Execute Code
 if (room == rm_AlexWhitney) {
 	solid = false;
@@ -16,6 +16,9 @@ if (room == rm_AlexWhitney) {
 	}
 	if (y > 660) {
 		y = 660
+	}
+	if (camera_x >= 4090) {
+		camera_x = 4090
 	}
 }
 /// @description Execute Code
