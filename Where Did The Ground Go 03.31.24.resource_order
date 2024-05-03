@@ -47,9 +47,10 @@
     {"name":"spr_Ewind180Degrees","order":5,"path":"sprites/spr_Ewind180Degrees/spr_Ewind180Degrees.yy",},
     {"name":"spr_Fwind225Degrees","order":6,"path":"sprites/spr_Fwind225Degrees/spr_Fwind225Degrees.yy",},
     {"name":"spr_Gwind270Degrees","order":7,"path":"sprites/spr_Gwind270Degrees/spr_Gwind270Degrees.yy",},
+    {"name":"spr_net","order":2,"path":"sprites/spr_net/spr_net.yy",},
     {"name":"spr_player_invincible","order":1,"path":"sprites/spr_player_invincible/spr_player_invincible.yy",},
     {"name":"Sprite28","order":11,"path":"sprites/Sprite28/Sprite28.yy",},
-    {"name":"spr_net","order":2,"path":"sprites/spr_net/spr_net.yy",},
+    {"name":"start_background","order":1,"path":"sprites/start_background/start_background.yy",},
     {"name":"Sprite36","order":7,"path":"sprites/Sprite36/Sprite36.yy",},
   ],
 }
