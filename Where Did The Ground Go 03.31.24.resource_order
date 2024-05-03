@@ -20,6 +20,7 @@
     {"name":"obj_button_goto_2","order":2,"path":"objects/obj_button_goto_2/obj_button_goto_2.yy",},
     {"name":"obj_button_goto_3","order":3,"path":"objects/obj_button_goto_3/obj_button_goto_3.yy",},
     {"name":"obj_button_index","order":5,"path":"objects/obj_button_index/obj_button_index.yy",},
+    {"name":"obj_button_Restart","order":6,"path":"objects/obj_button_Restart/obj_button_Restart.yy",},
     {"name":"obj_Bwind45","order":1,"path":"objects/obj_Bwind45/obj_Bwind45.yy",},
     {"name":"obj_Cwind90","order":3,"path":"objects/obj_Cwind90/obj_Cwind90.yy",},
     {"name":"obj_Dwind135","order":5,"path":"objects/obj_Dwind135/obj_Dwind135.yy",},
@@ -50,7 +51,7 @@
     {"name":"spr_net","order":2,"path":"sprites/spr_net/spr_net.yy",},
     {"name":"spr_player_invincible","order":1,"path":"sprites/spr_player_invincible/spr_player_invincible.yy",},
     {"name":"Sprite28","order":11,"path":"sprites/Sprite28/Sprite28.yy",},
-    {"name":"start_background","order":1,"path":"sprites/start_background/start_background.yy",},
     {"name":"Sprite36","order":7,"path":"sprites/Sprite36/Sprite36.yy",},
+    {"name":"start_background","order":1,"path":"sprites/start_background/start_background.yy",},
   ],
 }
