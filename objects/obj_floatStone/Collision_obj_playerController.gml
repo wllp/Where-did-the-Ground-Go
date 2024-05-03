@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 52A59098
 /// @DnDApplyTo : {obj_playerController}
-/// @DnDArgument : "expr" "+25"
+/// @DnDArgument : "expr" "(obj_playerController.hp_max - obj_playerController.hp)"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "hp"
 with(obj_playerController) {
-hp += +25;
+hp += (obj_playerController.hp_max - obj_playerController.hp);
 
 }
 

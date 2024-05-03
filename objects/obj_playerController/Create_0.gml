@@ -7,7 +7,7 @@ hp_max = hp;
 healthbar_width = 100;
 healthbar_height = 20;
 healthbar_x = (1366/2) - (healthbar_width/2);
-healthbar_y = ystart - 100;
+healthbar_y = ystart - 275;
 
 // net init
 global.net_visible = false
