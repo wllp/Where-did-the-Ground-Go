@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite27",
-    "path":"sprites/Sprite27/Sprite27.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

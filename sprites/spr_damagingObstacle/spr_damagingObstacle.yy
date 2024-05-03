@@ -5,21 +5,21 @@
   "bbox_bottom":63,
   "bbox_left":0,
   "bbox_right":63,
-  "bbox_top":0,
+  "bbox_top":2,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"09832e3e-b57e-4169-b67e-edeedfd695f4","name":"09832e3e-b57e-4169-b67e-edeedfd695f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1fcea72a-93ac-4880-ac4e-1f29366c934b","name":"1fcea72a-93ac-4880-ac4e-1f29366c934b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8010ae8e-e872-4426-b0a3-104603884e63","blendMode":0,"displayName":"default","isLocked":false,"name":"8010ae8e-e872-4426-b0a3-104603884e63","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4fb4c065-d144-4df8-8323-13112815cb99","blendMode":0,"displayName":"default","isLocked":false,"name":"4fb4c065-d144-4df8-8323-13112815cb99","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_damagingObstacle",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"09832e3e-b57e-4169-b67e-edeedfd695f4","path":"sprites/spr_damagingObstacle/spr_damagingObstacle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"af76704f-2eb7-40ef-b8cc-c5d5877fbfcc","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1fcea72a-93ac-4880-ac4e-1f29366c934b","path":"sprites/spr_damagingObstacle/spr_damagingObstacle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"744d8158-6b0c-45bc-87dd-3b5eca75ade3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
