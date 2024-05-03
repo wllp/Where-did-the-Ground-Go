@@ -62,6 +62,7 @@
     {"id":{"name":"obj_birb","path":"objects/obj_birb/obj_birb.yy",},},
     {"id":{"name":"obj_boundary","path":"objects/obj_boundary/obj_boundary.yy",},},
     {"id":{"name":"obj_button_back","path":"objects/obj_button_back/obj_button_back.yy",},},
+    {"id":{"name":"obj_text_box","path":"objects/obj_text_box/obj_text_box.yy",},},
     {"id":{"name":"obj_button_credits","path":"objects/obj_button_credits/obj_button_credits.yy",},},
     {"id":{"name":"obj_button_goto_1","path":"objects/obj_button_goto_1/obj_button_goto_1.yy",},},
     {"id":{"name":"obj_button_goto_2","path":"objects/obj_button_goto_2/obj_button_goto_2.yy",},},
